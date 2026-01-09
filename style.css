@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    body{
+        background-color:lightgray;
+        margin: 20px;
+    }
+}
+nav{
+    
+    max-width: 1600px;
+    margin: 0 auto;
+    display: flex;
+    padding-right: 120px;
+    padding-left: 120px;
+    padding-top: 10px;
+    justify-content: space-between;
+    background-color: #fff;
+    margin-top: 16px;
+}
+nav .menu{
+    list-style-type: none;
+    gap: 40px;
+    align-items: center;
+    display: flex;
+}
+.btn{
+    width: 132px;
+    height: 40px;
+    background-color:green;
+    padding: 5px 10px 5px 10px;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    color: white;
+ 
+}
+
+
+
+
