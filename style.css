@@ -76,8 +76,119 @@ margin-bottom: 30px;
    border: 1px solid white;
    border-radius: 5px;
 }
+#stracture{
+    width: 1475px;
+    height: 600px;
+    background-color: #fff;
+    
+}
+#stracture .stracture_head h1{
+    padding-top: 50px;
+    text-align: center;
+    font-size: 50px;
+}
+#stracture .stracture_head p{
+    text-align: center;
+    margin-top: 10px;
+}
+.container{
+    display: flex;
+    margin-left: 50px;
+    margin-right: 50px;
+    align-items: stretch;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 50px;
+    padding-bottom: 0px;
+}
+.container div{
+    padding: 25px;
+    margin: 20px;
+    border: 0.1px solid black;
+}
+ 
+  
+.care_info{
+    height: 300px;
+   
+}
 
+.contain{
+    padding: 120px 120px 120px 120px;
+    display: flex;
+    background-color: #fff;
+    
+}
+.contain_info {
+    
+  padding-left: 25px;
+    background-color: #fff;
+    width: 700px;
+    height: 600px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.contain_info h3{
+    color: #308868;
+    font-weight: 200;
+    padding-bottom: 20px;
+}
+.contain_info h1{
+    font-size: 50px;
+    padding-bottom: 20px;
+}
+.contain_info p{
+    padding-bottom: 20px;
+}
+.check{
+    list-style-type: none;
+    font-size: 16px;
+    line-height: 25px;
+}
+.clearly{
+    width: 1260px;
+    height: 384px;
+    margin-left: 100px;
+    margin-right: 60px;
+    background-color:rgba(211, 211, 211, 0.178);
+    margin-top: 0px;
+    padding: 80px;
+}
 
+.clearly p{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.container{
+    background-color: #fff;
+}
+.footer{
+    border: #308868 1px solid;
+    padding: 120px 120px 30px 120px;
+    background-color:#001931;
+    margin-bottom: 0;
+}
+.flogo{
+    float: left;
+    justify-content: space-between;
+}
+.fsocial{
+    margin-left: 90%;
 
+}
+.mm , li a{
+    list-style-type: none;
+    display: inline;
+    font-size: 25px;
+    color: #fff;
+    padding: 50px;
+    border: none;
+    margin: 0;
 
-
+}
+.container{
+    margin-bottom: 0px;
+}
+ .contain{
+    margin-top: 0px;
+ }  
